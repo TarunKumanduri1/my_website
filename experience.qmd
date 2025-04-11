@@ -1,0 +1,61 @@
+---
+format: html
+page-layout: full
+toc: true
+toc-location: left
+---
+
+## Professional Experience
+
+### Graduate Research Assistant  
+**The George Washington University** (June 2024 – Present)
+
+As a GRA in the School of Engineering and Applied Science, I work on large-scale data-driven projects focused on **sustainability**, **energy systems**, and **policy analysis**. My role combines advanced data engineering with machine learning to deliver impactful research outputs for internal and federal partners such as the USDA.
+
+#### Key contributions:
+
+- **Developed a nitrogen supply chain model** using 7+ datasets covering crop production, livestock, and trade across all 50 U.S. states, with a focus on **Chesapeake Bay counties** to support the **USDA’s 2030 nitrogen reduction goals**.
+- **Processed and structured 66,000+ energy data files** (each with 8,500+ entries) from the **National Renewable Energy Lab (NREL)** to create an energy plant database for **11,000+ U.S. locations** to assist in **renewable energy forecasting**.
+- Built **interactive dashboards** using **Python Dash** and **R Shiny** for analyzing over **100K records**, improving stakeholder insights and decision-making.
+- Applied **machine learning algorithms** such as **K-means**, **DBSCAN**, and **LSTM** to forecast NYC taxi demand and detect anomalies in large-scale electricity pricing data.
+- Designed **automated ETL pipelines** and **custom web scrapers**, reducing data preparation time by 80%.
+- Used **Neo4j** to analyze 10K+ **SEC filings**, uncovering relationships across 1,500+ executives and identifying financial influence patterns.
+- Created a **deep learning model** combining **ResNet-18**, **CLIP**, **BLIP**, and **BERT** to validate image-caption alignment on a 10K+ image dataset from a National Forensics Department, achieving **95% accuracy**.
+
+---
+
+### District Data Coordinator  
+**Inqui-Lab Foundation** (Oct 2022 – July 2023)
+
+In collaboration with **UNICEF** and the **Government of Telangana**, I led the data strategy for the **School Innovation Challenge 2022**, supporting educational innovation at scale.
+
+#### Key contributions:
+
+- Analyzed real-time student performance data across **7 districts**, leading to a **35% increase in student participation** (impacting over **64,500+ students**).
+- Designed and implemented **automated data pipelines** using Python, saving over **20 hours/week** and enabling faster, more focused analysis for intervention planning.
+- Created **dashboard reports** and custom data visualizations to track engagement, performance, and resource allocation, directly supporting **4,900+ teachers** and District Science Officers.
+- Built tools to collect and interpret feedback data, enabling faster decision cycles for educational and policy improvements at the grassroots level.
+
+---
+
+## Volunteering & Leadership
+
+### Volunteer, The Art of Living Foundation  
+**(2019 – Present)**  
+As a certified yoga and mindfulness instructor, I’ve led personal development sessions and wellness workshops for over **1,800+ participants**, including university students and corporate employees. These sessions were hosted at institutions like **USC**, **GWU**, **Babson College**, **IIT Hyderabad**, and **NIFT Hyderabad** — focusing on mental well-being, focus, and stress reduction.
+
+### Finance Director, GW Desis  
+**(Jan 2024 – Present)**  
+Managing financial planning and budgeting for a 350+ member graduate student community at GW. I help organize cultural, professional, and networking events, ensuring effective use of resources.
+
+### Digital Marketing Director, Google Developer Student Club (GWU)  
+**(Mar 2024 – Present)**  
+Led outreach and marketing for GDSC workshops and tech events attended by 150+ students. I focus on promoting Google technologies, fostering tech learning, and community engagement.
+
+---
+
+## Summary
+
+These roles reflect my dedication to both **technical innovation** and **community engagement**. Whether it’s through advanced analytics in sustainability or empowering others through wellness and tech education, I aim to create impact that is both meaningful and measurable.
+
+---

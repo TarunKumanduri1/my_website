@@ -1,1 +1,1 @@
-Sitemap: https://www.fewslab.org/sitemap.xml
+Sitemap: https://www.tarunkumanduri.netlify.app/sitemap.xml
