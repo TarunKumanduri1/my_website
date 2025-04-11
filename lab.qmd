@@ -1,0 +1,121 @@
+---
+title: "FEWsLab Team"
+format: html
+page-layout: full
+toc: true
+toc-location: left
+---
+
+## Graduate Students
+
+### **Dhanyasri Bolla**
+<div style="text-align: center;">
+  <img src="images/lab/dhanya.jpg" width="250px">
+</div>
+
+Dhanyasri is a master’s student in the Engineering Management program at George Washington University (GWU). She received her Bachelor of Technology in Electronics and Communication Engineering from the Sardar Vallabhbhai National Institute of Technology in 2023. Currently pursuing her master’s degree, Dhanya is interested in shifting into the finance field and is taking relevant courses to achieve this goal. Her undergraduate research focused on analyzing the performance of 5G waveforms over a 3D channel model. Professionally, she is skilled in Python, data visualization using Tableau and front-end web development. Her extracurricular interests include event management at university events and photography.
+
+---
+
+### **Abbey Kollar**
+<div style="text-align: center;">
+  <img src="images/lab/abbey.jpg" width="250px">
+</div>
+
+Abbey is a doctoral student in the Systems Engineering Ph.D. program at GWU. She received her B.S. in Chemical Engineering with honors and a minor in Applied Economics from The Pennsylvania State University in 2023. Abbey’s undergraduate research focused on the conversion of plastics and biomass to oil and reducing nitrous oxide production from fertilizer use. Her research interests include renewable energy systems, climate change, economics, and policy. As a [DTAIS fellow](https://dtais.engineering.gwu.edu/), Abbey will integrate trustworthy AI into her research as well.
+
+---
+
+### **Tarun Kumanduri**
+<div style="text-align: center;">
+  <img src="images/lab/tarun.jpeg" width="250px">
+</div>
+
+Tarun is a Master’s student in the Data Analytics Program at George Washington University. He holds a Bachelor’s Degree in Computer Science and Engineering from JNTU Hyderabad. His expertise in Data Analysis, Visualization, and Modeling is enhanced by his interest in Project Management. He served as an Operations Intern in the UNICEF-Government of Telangana “School Innovation Challenge.” He is also a certified Yoga Teacher and the Events Director for the George Washington Desis Student Organization.
+
+---
+
+### **Sachi Nandurkar**
+<div style="text-align: center;">
+  <img src="images/lab/sachi.jpg" width="250px">
+</div>
+
+Sachi is a master’s student in the Engineering Management program at GWU. Her research at the FEW’s Lab focuses on the life cycle assessment and circularity of electric vehicles. As a Graduate Teaching Assistant, she teaches labs on advanced Excel, SQL, and ERDs. She is also a Career Services Ambassador and has experience in global program management and data analytics. Sachi loves Formula One and blogs at “Constellation of Thoughts.”
+
+---
+
+### **Ji Qi**
+<div style="text-align: center;">
+  <img src="images/lab/ji.jpg" width="250px">
+</div>
+
+Ji is a graduate student in the Systems Engineering Ph.D. program at GWU. His research interests span financial risk networks, system reliability, and reinforcement learning. Ji enjoys combining economics, decision science, and networks in his work. In his spare time, he is passionate about photography, hiking, guitar, classical music, and Chinese painting.
+
+---
+
+## Undergraduate Students
+
+### **Rebecca Germaine**
+<div style="text-align: center;">
+  <img src="images/lab/becky.png" width="250px">
+</div>
+
+Rebecca is an undergraduate student at GWU studying Public Health with a minor in Psychology. She has researched the substance use recovery system in New Jersey and volunteered on medical missions. She was president of GW Women’s Career Connect and is passionate about environmental health, especially among underserved communities like Arctic indigenous populations.
+
+---
+
+## Principal Investigator
+
+### **Dr. Caitlin Grady**
+<div style="text-align: center;">
+  <img src="images/lab/caitlin_grady.jpg" width="250px">
+</div>
+
+Dr. Caitlin Grady is an Associate Professor at GWU and a Nonresident Fellow at the Chicago Council on Global Affairs. Her research covers engineering and policy issues in food, energy, and water systems. She previously worked in federal government roles at the House of Representatives, Department of Energy, and Department of State.
+
+
+**Education:**  
+Ph.D., Civil and Environmental Engineering, Purdue University  
+M.S., Agricultural and Biological Engineering, Purdue University  
+B.S., Science and Technology Studies, Virginia Tech (Humanities, Science, and the Environment Major; Environmental Policy and Planning Minor)
+
+---
+
+# Alumni
+- Jose Fernandez (2017–2018): M.Eng., Penn State Civil Engineering, Water Resources. Now Project Engineer in Ecuador.
+- Andrew Pannone (2017–2018): Undergraduate, Penn State Engineering. Now PhD student in Dr. Saptarshi Das Lab, Penn State.
+- Jack Iffert (2018–2019): B.S. Civil Engineering. Now Transportation Analyst at Kimley Horn.
+- Jared Lawrence (2018–2019): MIA, PSU School of International Affairs.
+- Maya Zambrano-Lee (Summer 2019): Visiting undergrad, Univ. of Maryland. Now Sustainability Intern, City of Brunswick.
+- Abby Cowser (2019–2020): B.S. Civil Engineering. Now Staff Engineer, WDP & Associates.
+- Tasnuva Mahjabin (2017–2020): Ph.D. Civil Engineering. Now Water Resources Engineer II at Atkins.
+- Autumn Deitrick (2019–2021): B.S. Civil Engineering. Now Ph.D. student in Engineering Education at Penn State.
+- Tori Lenze (2020–2022): B.S. Mechanical Engineering. Now graduate student at Penn State.
+- Yuchen Fu (2021–2022): B.S. Civil Engineering. Now graduate student at Stanford University.
+- Xinran Zhang (2021–2022): B.S. Civil Engineering. Now graduate student at University of Michigan.
+- Luis Delgado (2020–2022): M.S. Civil Engineering. Now PhD student in Engineering Education at Penn State.
+- Sarah Torhan (2020–2022): M.S. Civil Engineering. Now PhD student at Penn State.
+- Lauren Dennis (2019–2023): Ph.D. Civil Engineering, Climate Science. Now Presidential Management Fellow.
+- Paniz Mohammadpour (2018–2023): Ph.D. Civil Engineering. Now Water Resources Engineer II at Atkins.
+- Selena Hinojos (2021-2024) : Ph.D. in Engineering Management. Now Post Doc at University of Lousiana.
+
+---
+
+# Student Awards
+
+- Abbey Kollar – NSF Graduate Research Fellowship (2024)  
+- Lauren Dennis – Presidential Management Fellow (2023)  
+- Sarah Torhan – NDSEG Fellow, Fulbright Fellow, Boren Fellow (2022)  
+- Autumn Deitrick – NSF Fellow (2021), Goldwater Scholar (2020), Mission Award (2021)  
+- Selena Hinojos – Bunton-Waller Fellowship (2020–2021)  
+- Luis Delgado – GEM Fellow, Bunton-Waller Fellowship (2020–2021)  
+- Abby Cowser – ASCE New Faces of Civil Engineering, Oswald Award (2020)  
+- Lauren Dennis – PSU Graduate Fellowship (2019–2020), NSF NRT Fellow (2020–2021)  
+- Paniz Mohammadpour – CUAHSI Travel Scholarship (2019)  
+- Jack Iffert – Ralph Dorn Hetzel Award (2019), Engineering Technology and Ethics Fellowship (2018)  
+- Tasnuva Mahjabin – Travel Grant (AGU Fall Conference), SESYNC Workshop Award (2018)  
+- Andrew Pannone – CERI Scholarship (2018), REU Fellowship (2018)
+
+---
+
+*Current and prospective students are encouraged to contact Dr. Grady for opportunities.*
