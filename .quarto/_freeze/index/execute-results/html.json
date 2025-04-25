@@ -1,8 +1,8 @@
 {
-  "hash": "733ac9886fd92f425318d025ad4b601a",
+  "hash": "1d7a3dd81e7236bf1b5582c962762bfc",
   "result": {
     "engine": "knitr",
-    "markdown": "---\nimage: \"images/lab/logo/logo.png\"\nexecute: \n  echo: false\n  warning: false\nabout:\n  template: trestles\n  links:\n    - icon: linkedin\n      href: https://www.linkedin.com/company/fews-lab\n---\n\n::: {.cell}\n\n:::\n\n\n\n### Welcome to the FEWsLab Website\n\nAt **FEWsLab**, we investigate the form and function of interconnections across **food**, **energy**, and **water** systems.\n\nOur lab combines **Network modeling**, **Socio-technical data**, **Ethical and policy analyses**.\n\nWe aim to foster a more **sustainable** and **secure** environment, balancing **fundamental research** with **practical policy outcomes**.\n\n---\n\n> *\"Sustainability is not a goal — it's a process of systems thinking, ethical responsibility, and adaptive innovation.\"*\n",
+    "markdown": "---\nimage: \"images/profile/tarun.jpg\"\nexecute: \n  echo: false\n  warning: false\nabout:\n  template: trestles\n  links:\n    - icon: file-pdf\n      text: Resume\n      href: https://drive.google.com/file/d/1FAa86DT75YdniXpgo-f44b6LEIRBUcxd/view?usp=sharing\n    - icon: github\n      href: https://github.com/TarunKumanduri1\n    - icon: linkedin\n      href: https://www.linkedin.com/in/tarun-kumanduri\n    - icon: envelope\n      href: mailto:tarun.kumanduri99@gmail.com\n---\n\n::: {.cell}\n\n:::\n\n\n\n# Tarun Kumanduri  \n**Data Science | Machine Learning | Analytics | Cloud Engineering**\n\nI'm a data-driven problem solver passionate about building intelligent systems that create real-world impact.  \nI specialize in working across the data lifecycle — from **ETL pipelines** and **statistical modeling** to **ML deployment** and **dashboard development**.\n\nCurrently pursuing my **Master’s in Data Analytics** at GWU, I'm open to opportunities in  \n**Data Science**, **Data Engineering**, **Machine Learning**, and **Business/Data Analytics** roles.\n\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

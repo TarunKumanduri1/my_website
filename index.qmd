@@ -1,27 +1,33 @@
 ---
-image: "images/lab/logo/logo.png"
+image: "images/profile/tarun.jpg"
 execute: 
   echo: false
   warning: false
 about:
   template: trestles
   links:
+    - icon: file-pdf
+      text: Resume
+      href: https://drive.google.com/file/d/1FAa86DT75YdniXpgo-f44b6LEIRBUcxd/view?usp=sharing
+    - icon: github
+      href: https://github.com/TarunKumanduri1
     - icon: linkedin
-      href: https://www.linkedin.com/company/fews-lab
+      href: https://www.linkedin.com/in/tarun-kumanduri
+    - icon: envelope
+      href: mailto:tarun.kumanduri99@gmail.com
 ---
 
 ```{r setup}
 source("_common.R")
 ```
 
-### Welcome to the FEWsLab Website
+# Tarun Kumanduri  
+**Data Science | Machine Learning | Analytics | Cloud Engineering**
 
-At **FEWsLab**, we investigate the form and function of interconnections across **food**, **energy**, and **water** systems.
+I'm a data-driven problem solver passionate about building intelligent systems that create real-world impact.  
+I specialize in working across the data lifecycle — from **ETL pipelines** and **statistical modeling** to **ML deployment** and **dashboard development**.
 
-Our lab combines **Network modeling**, **Socio-technical data**, **Ethical and policy analyses**.
+Currently pursuing my **Master’s in Data Analytics** at GWU, I'm open to opportunities in  
+**Data Science**, **Data Engineering**, **Machine Learning**, and **Business/Data Analytics** roles.
 
-We aim to foster a more **sustainable** and **secure** environment, balancing **fundamental research** with **practical policy outcomes**.
 
----
-
-> *"Sustainability is not a goal — it's a process of systems thinking, ethical responsibility, and adaptive innovation."*
