@@ -1,0 +1,107 @@
+---
+title: "Career Highlights"
+format:
+  html:
+    toc: true
+    number-sections: false
+    smooth-scroll: true
+    page-layout: full
+---
+
+Welcome to a curated journey through some of the professional experiences, leadership roles, and innovation challenges I have been a part of!
+---
+
+### 🎤 Guest Talk at Matrusri Engineering College
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="images/career/matrusri_talk.jpg" alt="Matrusri Talk 1" width="300px">
+</div>
+
+On **September 15, 2023**, I had the incredible opportunity to address over **600 budding engineers** at Matrusri Engineering College’s induction program.  
+I spoke about:
+- The multifaceted world of engineering
+- Mental health and emotional intelligence
+- The power of mindfulness in boosting creativity and decision-making  
+
+A truly memorable experience inspiring the next generation of engineers!
+
+[🔗 View on LinkedIn](https://www.linkedin.com/posts/tarun-kumanduri_excited-to-share-that-ive-been-given-the-activity-7107737081598144512-FJvb)
+
+---
+
+### 🚀 Joining GW Google Developer Student Club
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="images/career/gdsc_gwu.png" alt="GDSC GWU 1" width="300px">
+</div>
+
+In **October 2024**, I started my new role as a **Digital Marketing Officer** at the Google Developer Student Club (GDSC) at GWU.  
+Here, I work to promote events, expand student outreach, and foster a culture of innovation and collaboration among aspiring developers at GWU.
+
+[🔗 View on LinkedIn](https://www.linkedin.com/posts/tarun-kumanduri_gdgoncampus-georgewashingtonuniversity-kickoffevent-activity-7264419850461036544-kUPs)
+
+---
+
+### 💼 Appointed Financial Officer at GW Desis Graduate Club
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="images/career/gw_desis_1.jpg" alt="GW Desis 1" height = "350px" width="300px">
+  <img src="images/career/gw_desis_2.jpg" alt="GW Desis 2" height = "350px" width="300px">
+</div>
+
+Also in **October 2024**, I took charge as the **Financial Officer** of the GW Desis Graduate Student Organization.  
+In this role, I manage budgets, facilitate event planning, and support the vibrant South Asian student community on campus.
+
+[🔗 View on LinkedIn](https://www.linkedin.com/posts/tarun-kumanduri_teamwork-leadership-georgewashingtondesis-activity-7265512405818843138-Csvs)
+
+---
+
+### 🎓 Career Growth Webinar with Ravi Ganti
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="images/career/ravi_ganti_webinar_1.jpg" alt="Ravi Ganti Webinar 1" width="300px">
+  <img src="images/career/ravi_ganti_webinar_2.jpg" alt="Ravi Ganti Webinar 2" width="300px">
+</div>
+
+On **February 20, 2024**, I helped organize a transformative webinar featuring insights from **Ravi Ganti** on career growth.  
+Key takeaways:
+- Build a career around what excites you.
+- Adopt a growth mindset and adaptability.
+- Leverage AI tools as powerful allies for productivity, not as competition.
+
+A truly inspiring session that reshaped how I think about professional growth!
+
+[🔗 View on LinkedIn](https://www.linkedin.com/posts/tarun-kumanduri_careergrowth-mindsetmatters-aiasatool-activity-7298760940861145089-ZtPw)
+---
+
+### 🏥 Building MOM (My Own Medic) at George Hacks 2025
+
+<div style="text-align: center;">
+  <img src="images/career/george_hacks.jpg" alt="My Own Medic Project" width="300px">
+</div>
+
+During the **George Hacks Hackathon** on **March 2, 2025**, our team built **MOM (My Own Medic)** — a personalized AI healthcare assistant that integrates securely with Electronic Health Records (EHRs) for real-time, proactive health insights.
+
+**Tech Stack:**  
+`TensorFlow • GPT-4 • FastAPI • MongoDB • React.js • FHIR APIs • OAuth 2.0`
+
+It was an amazing learning experience working on HIPAA-compliant AI applications!
+
+[🔗 View on LinkedIn](https://www.linkedin.com/posts/tarun-kumanduri_georgehacks-hackathon-healthcareai-activity-7304237214249406464-JzT8)
+---
+
+### 🧪 Research Showcase at GW SEAS R&D Fair
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="images/career/research_showcase_1.jpg" alt="Research Showcase 1" height = "200px" width="300px">
+  <img src="images/career/research_showcase_2.jpg" alt="Research Showcase 2" height = "200px" width="300px">
+</div>
+
+On **April 25, 2025**, I presented two co-authored research projects at the **GW SEAS R&D Showcase**:
+- **Navigating Nitrogen**: Analyzing Chesapeake Bay’s agricultural trade pathways.
+- **Resilient Megacities**: Adaptive strategies for urban resilience in a changing climate.
+
+A fantastic opportunity to share our team's work with a broader academic audience!
+
+[🔗 View on LinkedIn](https://www.linkedin.com/posts/tarun-kumanduri_research-climateaction-sustainability-activity-7321633078148284417-IrMJ)
+---

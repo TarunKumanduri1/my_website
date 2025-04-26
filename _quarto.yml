@@ -9,6 +9,7 @@ project:
     - "about.qmd"
     - "experience.qmd"              
     - "projects.qmd"
+    - "career.qmd"
   resources:
     - "content/"
     - "css"
@@ -35,6 +36,8 @@ website:
         href: experience.qmd
       - text: "Projects"
         href: projects.qmd
+      - text: "Career Highlights"
+        href: career.qmd
 
   page-footer:
     center:
